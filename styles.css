@@ -1,0 +1,14 @@
+.demo {
+    margin: auto;
+    width: 50%;
+    padding: 150px;
+    gap: 5px;
+    display: grid;
+    grid-template-columns: repeat(15, 50px);
+}
+
+.square {
+    height: 50px;
+    width: 50px;
+    background-color: #7751d8;
+}
